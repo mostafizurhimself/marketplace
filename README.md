@@ -11,4 +11,4 @@ User: admin@example.com Password: 111111
 ### Technology Used
 PHP, Javascript, Laravel, Vue.js, Nuxt.js, MySQL, etc.
 
-**N.B: This project source code is confediential. I can only share a live demo here.**
+**N.B: This project source code is confediential. Only sharing a live demo here.**
