@@ -1,6 +1,5 @@
 # Marketplace
-Marketplace website for Digital Products &amp; Services <br/>
-https://outchimp.com/
+Marketplace website for Digital Products &amp; Services 
 
 ### Live Demo
 Website: https://marketplace.mostafizur.dev/
